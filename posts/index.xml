@@ -17,8 +17,6 @@
       <guid>/posts/sample-content-one/</guid>
       <description>
 
-&lt;h3 id=&#34;sample-content-heading&#34;&gt;Sample Content Heading&lt;/h3&gt;
-
 &lt;p&gt;Showing Nathan how we can use Wercker and an SSG to automate HTML snippet creation for UCM. Here is a &lt;a href=&#34;../my-random-pdf-filename.pdf&#34;&gt;link to a pdf&lt;/a&gt;. Here is some more content after the sentence with the inline pdf link.&lt;/p&gt;
 
 &lt;h4 id=&#34;sample-content-subheading&#34;&gt;Sample Content Subheading&lt;/h4&gt;
