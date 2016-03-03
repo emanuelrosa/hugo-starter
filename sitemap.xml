@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>/posts/sample-content-one/</loc>
-    <lastmod>2016-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/sample-content-two/</loc>
     <lastmod>2016-01-16T00:00:00+00:00</lastmod>
   </url>
@@ -24,6 +19,10 @@
   
   <url>
     <loc>/json/site-index/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/sample-content-one/</loc>
   </url>
   
 </urlset>
